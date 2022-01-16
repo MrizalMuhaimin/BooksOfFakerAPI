@@ -1,0 +1,19 @@
+{
+  "name": "booksoffakerapi",
+  "version": "1.0.0",
+  "description": "This repository is a submission for the final assessment of fundamental frontend web development at coding academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrizalMuhaimin/BooksOfFakerAPI.git"
+  },
+  "author": "Muhammad Rizal Muhaimin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrizalMuhaimin/BooksOfFakerAPI/issues"
+  },
+  "homepage": "https://github.com/MrizalMuhaimin/BooksOfFakerAPI#readme"
+}
